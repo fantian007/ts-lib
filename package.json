@@ -1,0 +1,14 @@
+{
+  "name": "@sprit/ts-lib",
+  "version": "1.0.0",
+  "description": "各种TS自定义类型",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TypeScript"
+  ],
+  "author": "1562743134@qq.com",
+  "license": "ISC"
+}
