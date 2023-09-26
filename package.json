@@ -7,8 +7,12 @@
     "test": "echo \"Error: no test specified\""
   },
   "keywords": [
-    "TypeScript"
+    "TypeScript Tools",
+    "TypeScript Toolbet"
   ],
   "author": "1562743134@qq.com",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "ts-toolbelt": "^9.6.0"
+  }
 }
