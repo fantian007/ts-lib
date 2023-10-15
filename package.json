@@ -1,6 +1,6 @@
 {
   "name": "@sprit/ts-lib",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "各种TS自定义类型",
   "main": "src/index.ts",
   "scripts": {
